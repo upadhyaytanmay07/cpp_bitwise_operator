@@ -1,7 +1,7 @@
-Aim: 
+# Aim: 
 To study and implement C++ Bitwise Operators
 
-Theory:
+# Theory:
 In C++, Bitwise Operators are the operators that are used to perform bit-level operations on the integers. While performing these operations, integers are considered as sequences of binary digits. These operators are useful for low-level programming, system programming, and optimizing performance.
 
 Bitwise AND (&):
@@ -22,13 +22,18 @@ The leftshift operator shifts the bits of an integer to the left by a specific n
 Right Shift (>>):
 The right shift operator shifts the bits of an integer to the right by a specific number of positions. This right shift operation is equivalent to dividing the integer by 2 raised to the power of the number of positions shifted. The symbol used to represent the right shift operator is >>.
 
-Implementation:
+# Implementation:
+
 The Bitwise Operators are used in the following cases which helps to understand the operators in C++.
 
 Usage of Bitwise Operators(basic)
 To set specific Bits(Uses Binary logic)
-Algorithm:
-Program 1 Objective: To perform and display results of various bitwise operations using two predefined integers.
+
+# Algorithm:
+
+# Program 1 
+
+Objective: To perform and display results of various bitwise operations using two predefined integers.
 
 Steps:
 
@@ -55,7 +60,8 @@ Display results:
 Output all computed values to the console using cout
 
 End
-Program 2
+
+# Program 2
 
 Objective: To modify a predefined integer by setting and resetting specific bits as per user input.
 
@@ -87,5 +93,5 @@ Display the result after resetting
 
 End
 
-Conclusion:
+# Conclusion:
 This Document as well as Program discovers the various types of bitwise operators that are available in C++.
