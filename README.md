@@ -35,7 +35,7 @@ Steps:
 Start
 2.Declare and initialize two integers:
 
-a ← 3 b ← 7
+a ← 9 b ← 8
 
 perform bitwise operations:
 bitwise_and ← a AND b (a & b)
@@ -47,9 +47,9 @@ bitwise_xor ← a XOR b (a ^ b)
 bitwise_not ← NOT a (~a)
 
 Perform shift operations:
-leftshift ← a shifted left by 2 bits (a << 2)
+leftshift ← a shifted left by 1 bits (a << 1)
 
-rightshift ← 3 shifted right by a bits (3 >> a)
+rightshift ← a shifted right by 1 bits (1 >> a)
 
 Display results:
 Output all computed values to the console using cout
@@ -63,7 +63,7 @@ Steps:
 
 Start
 
-Initialize integer i ← 80
+Initialize integer i ← 50
 
 Ask the user to enter the bit position to set
 
